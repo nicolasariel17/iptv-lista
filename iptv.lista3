@@ -1,198 +1,573 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BR: A&E" tvg-logo="https://docdog.top/logo/countries/brazil/ae.png" group-title="LAME | BRAZIL VIP",BR: A&E
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4829
-#EXTINF:-1 tvg-id="" tvg-name="BR: AMC" tvg-logo="https://docdog.top/logo/countries/brazil/amc.png" group-title="LAME | BRAZIL VIP",BR: AMC
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4830
-#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/brazil/animalplanet.png" group-title="LAME | BRAZIL VIP",BR: ANIMAL PLANET
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4831
-#EXTINF:-1 tvg-id="" tvg-name="BR: AXN" tvg-logo="https://docdog.top/logo/countries/brazil/axn.png" group-title="LAME | BRAZIL VIP",BR: AXN
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4832
-#EXTINF:-1 tvg-id="" tvg-name="BR: BABY" tvg-logo="https://docdog.top/logo/countries/brazil/babytv.png" group-title="LAME | BRAZIL VIP",BR: BABY
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4833
-#EXTINF:-1 tvg-id="" tvg-name="BR: BAND NEWS" tvg-logo="https://docdog.top/logo/countries/brazil/bandnews.png" group-title="LAME | BRAZIL VIP",BR: BAND NEWS
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4834
-#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORT" tvg-logo="https://docdog.top/logo/countries/brazil/bandsports.png" group-title="LAME | BRAZIL VIP",BR: BAND SPORT
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4835
-#EXTINF:-1 tvg-id="" tvg-name="BR: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/brazil/boomerang.png" group-title="LAME | BRAZIL VIP",BR: BOOMERANG
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4836
-#EXTINF:-1 tvg-id="" tvg-name="BR: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/brazil/cartoonnetwork.png" group-title="LAME | BRAZIL VIP",BR: CARTOON NETWORK
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4837
-#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE" tvg-logo="https://docdog.top/logo/countries/brazil/combate.png" group-title="LAME | BRAZIL VIP",BR: COMBATE
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4838
-#EXTINF:-1 tvg-id="" tvg-name="BR: COMEDY CENTRAL" tvg-logo="https://docdog.top/logo/countries/brazil/comedycentral.png" group-title="LAME | BRAZIL VIP",BR: COMEDY CENTRAL
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4839
-#EXTINF:-1 tvg-id="" tvg-name="BR: CONMEBOL 2" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: CONMEBOL 2
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4840
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/brazil/discoverychannel.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY CHANNEL
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4841
-#EXTINF:-1 tvg-id="" tvg-name="BR: HGTV" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: HGTV
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4842
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY HOME & HEALTH" tvg-logo="https://docdog.top/logo/countries/brazil/discoveryhomeandhealth.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY HOME & HEALTH
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4843
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY ID" tvg-logo="https://docdog.top/logo/countries/brazil/discoveryidx.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY ID
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4844
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY KIDS" tvg-logo="https://docdog.top/logo/countries/brazil/discoverykids.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY KIDS
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4845
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/brazil/discoveryscience.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY SCIENCE
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4846
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY THEATER" tvg-logo="https://docdog.top/logo/countries/brazil/discoverytheater.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY THEATER
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4847
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY TLC" tvg-logo="https://docdog.top/logo/countries/brazil/discoverytlc.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY TLC
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4848
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY TURBO" tvg-logo="https://docdog.top/logo/countries/brazil/discoveryturbo.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY TURBO
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4849
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY WORLD" tvg-logo="https://docdog.top/logo/countries/brazil/discoveryworld.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY WORLD
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4850
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/brazil/disneychannel.png" group-title="LAME | BRAZIL VIP",BR: DISNEY CHANNEL
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4851
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY JR" tvg-logo="https://docdog.top/logo/countries/brazil/disneyjr.png" group-title="LAME | BRAZIL VIP",BR: DISNEY JR
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4852
-#EXTINF:-1 tvg-id="" tvg-name="BR: E!" tvg-logo="https://docdog.top/logo/countries/brazil/e.png" group-title="LAME | BRAZIL VIP",BR: E!
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4853
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="https://docdog.top/logo/countries/brazil/espn.png" group-title="LAME | BRAZIL VIP",BR: ESPN
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4854
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="https://docdog.top/logo/countries/brazil/espn2.png" group-title="LAME | BRAZIL VIP",BR: ESPN 2
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4855
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOOD NETWORK" tvg-logo="https://docdog.top/logo/countries/brazil/foodnetwork.png" group-title="LAME | BRAZIL VIP",BR: FOOD NETWORK
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4856
-#EXTINF:-1 tvg-id="" tvg-name="BR: STAR CHANNEL" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: STAR CHANNEL
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4857
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX LIFE" tvg-logo="https://docdog.top/logo/countries/brazil/foxlife.png" group-title="LAME | BRAZIL VIP",BR: FOX LIFE
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4858
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN4" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: ESPN4
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4859
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2" tvg-logo="https://docdog.top/logo/countries/brazil/foxsports3.png" group-title="LAME | BRAZIL VIP",BR: FOX SPORTS 2
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4860
-#EXTINF:-1 tvg-id="" tvg-name="BR: FX" tvg-logo="https://docdog.top/logo/countries/brazil/fx.png" group-title="LAME | BRAZIL VIP",BR: FX
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4861
-#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV CAMPINAS" tvg-logo="https://docdog.top/logo/countries/brazil/globoeptvcampinas.png" group-title="LAME | BRAZIL VIP",BR: GLOBO EPTV CAMPINAS
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4862
-#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO INTERNACIONAL" tvg-logo="https://docdog.top/logo/countries/brazil/globointernacional.png" group-title="LAME | BRAZIL VIP",BR: GLOBO INTERNACIONAL
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4863
-#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NEWS" tvg-logo="https://docdog.top/logo/countries/brazil/globonews.png" group-title="LAME | BRAZIL VIP",BR: GLOBO NEWS
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4864
-#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO" tvg-logo="https://docdog.top/logo/countries/brazil/globosp.png" group-title="LAME | BRAZIL VIP",BR: GLOBO
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4865
-#EXTINF:-1 tvg-id="" tvg-name="BR: GLOOB" tvg-logo="https://docdog.top/logo/countries/brazil/gloob.png" group-title="LAME | BRAZIL VIP",BR: GLOOB
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4866
-#EXTINF:-1 tvg-id="" tvg-name="BR: GNT" tvg-logo="https://docdog.top/logo/countries/brazil/gnt.png" group-title="LAME | BRAZIL VIP",BR: GNT
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4867
-#EXTINF:-1 tvg-id="" tvg-name="BR: H2" tvg-logo="https://docdog.top/logo/countries/brazil/h2.png" group-title="LAME | BRAZIL VIP",BR: H2
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4868
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 1" tvg-logo="https://docdog.top/logo/countries/brazil/hbo1.png" group-title="LAME | BRAZIL VIP",BR: HBO 1
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4869
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2" tvg-logo="https://docdog.top/logo/countries/brazil/hbo2.png" group-title="LAME | BRAZIL VIP",BR: HBO 2
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4870
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO FAMILY" tvg-logo="https://docdog.top/logo/countries/brazil/hbofamily.png" group-title="LAME | BRAZIL VIP",BR: HBO FAMILY
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4871
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO PLUS" tvg-logo="https://docdog.top/logo/countries/brazil/hboplus.png" group-title="LAME | BRAZIL VIP",BR: HBO PLUS
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4872
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO SIGNATURE" tvg-logo="https://docdog.top/logo/countries/brazil/hbosignature.png" group-title="LAME | BRAZIL VIP",BR: HBO SIGNATURE
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4873
-#EXTINF:-1 tvg-id="" tvg-name="BR: HISTORY CHANNEL" tvg-logo="https://docdog.top/logo/countries/brazil/historychannel.png" group-title="LAME | BRAZIL VIP",BR: HISTORY CHANNEL
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4874
-#EXTINF:-1 tvg-id="" tvg-name="BR: LIFE TIME" tvg-logo="https://docdog.top/logo/countries/brazil/lifetime.png" group-title="LAME | BRAZIL VIP",BR: LIFE TIME
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4875
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINEMAX" tvg-logo="https://docdog.top/logo/countries/brazil/cinemax.png" group-title="LAME | BRAZIL VIP",BR: CINEMAX
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4876
-#EXTINF:-1 tvg-id="" tvg-name="BR: MEGA PIX" tvg-logo="https://docdog.top/logo/countries/brazil/megapix.png" group-title="LAME | BRAZIL VIP",BR: MEGA PIX
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4877
-#EXTINF:-1 tvg-id="" tvg-name="BR: MTV" tvg-logo="https://docdog.top/logo/countries/brazil/mtv.png" group-title="LAME | BRAZIL VIP",BR: MTV
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4878
-#EXTINF:-1 tvg-id="" tvg-name="BR: MULTI SHOW" tvg-logo="https://docdog.top/logo/countries/brazil/multishow.png" group-title="LAME | BRAZIL VIP",BR: MULTI SHOW
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4879
-#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO" tvg-logo="https://docdog.top/logo/countries/brazil/natgeo.png" group-title="LAME | BRAZIL VIP",BR: NAT GEO
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4880
-#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO KIDS" tvg-logo="https://docdog.top/logo/countries/brazil/natgeokids.png" group-title="LAME | BRAZIL VIP",BR: NAT GEO KIDS
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4881
-#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/brazil/natgeowild.png" group-title="LAME | BRAZIL VIP",BR: NAT GEO WILD
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4882
-#EXTINF:-1 tvg-id="" tvg-name="BR: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/brazil/nickelodeon.png" group-title="LAME | BRAZIL VIP",BR: NICKELODEON
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4883
-#EXTINF:-1 tvg-id="" tvg-name="BR: NOVO TEMPO" tvg-logo="https://docdog.top/logo/countries/brazil/novotempo.png" group-title="LAME | BRAZIL VIP",BR: NOVO TEMPO
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4884
-#EXTINF:-1 tvg-id="" tvg-name="BR: OFF" tvg-logo="https://docdog.top/logo/countries/brazil/off.png" group-title="LAME | BRAZIL VIP",BR: OFF
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4885
-#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/brazil/paramountchannel.png" group-title="LAME | BRAZIL VIP",BR: PARAMOUNT CHANNEL
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4886
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 2" tvg-logo="https://docdog.top/logo/countries/brazil/premiere2.png" group-title="LAME | BRAZIL VIP",BR: PREMIERE 2
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4887
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 3" tvg-logo="https://docdog.top/logo/countries/brazil/premiere3.png" group-title="LAME | BRAZIL VIP",BR: PREMIERE 3
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4888
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 4" tvg-logo="https://docdog.top/logo/countries/brazil/premiere4.png" group-title="LAME | BRAZIL VIP",BR: PREMIERE 4
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4889
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 5" tvg-logo="https://docdog.top/logo/countries/brazil/premiere5.png" group-title="LAME | BRAZIL VIP",BR: PREMIERE 5
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4890
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 6" tvg-logo="https://docdog.top/logo/countries/brazil/premiere6.png" group-title="LAME | BRAZIL VIP",BR: PREMIERE 6
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4891
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES" tvg-logo="https://docdog.top/logo/countries/brazil/premiereclubes.png" group-title="LAME | BRAZIL VIP",BR: PREMIERE CLUBES
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4892
-#EXTINF:-1 tvg-id="" tvg-name="BR: RA TIM BUM" tvg-logo="https://docdog.top/logo/countries/brazil/ratimbum.png" group-title="LAME | BRAZIL VIP",BR: RA TIM BUM
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4893
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD" tvg-logo="https://docdog.top/logo/countries/brazil/record.png" group-title="LAME | BRAZIL VIP",BR: RECORD
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4894
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NEWS" tvg-logo="https://docdog.top/logo/countries/brazil/recordnews.png" group-title="LAME | BRAZIL VIP",BR: RECORD NEWS
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4895
-#EXTINF:-1 tvg-id="" tvg-name="BR: REDE TV" tvg-logo="https://docdog.top/logo/countries/brazil/redetv.png" group-title="LAME | BRAZIL VIP",BR: REDE TV
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4896
-#EXTINF:-1 tvg-id="" tvg-name="BR: RPC TV CURITIBA" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: RPC TV CURITIBA
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4897
-#EXTINF:-1 tvg-id="" tvg-name="BR: SBT" tvg-logo="https://docdog.top/logo/countries/brazil/sbt.png" group-title="LAME | BRAZIL VIP",BR: SBT
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4898
-#EXTINF:-1 tvg-id="" tvg-name="BR: SBT NORDESTE" tvg-logo="https://docdog.top/logo/countries/brazil//SBTNORDESTE.jpg" group-title="LAME | BRAZIL VIP",BR: SBT NORDESTE
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4899
-#EXTINF:-1 tvg-id="" tvg-name="BR: SONY" tvg-logo="https://docdog.top/logo/countries/brazil/sony.png" group-title="LAME | BRAZIL VIP",BR: SONY
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4900
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPACE" tvg-logo="https://docdog.top/logo/countries/brazil/space.png" group-title="LAME | BRAZIL VIP",BR: SPACE
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4901
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1" tvg-logo="https://docdog.top/logo/countries/brazil/sportv1.png" group-title="LAME | BRAZIL VIP",BR: SPORTV 1
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4902
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="https://docdog.top/logo/countries/brazil/sportv2.png" group-title="LAME | BRAZIL VIP",BR: SPORTV 2
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4903
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="https://docdog.top/logo/countries/brazil/sportv3.png" group-title="LAME | BRAZIL VIP",BR: SPORTV 3
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4904
-#EXTINF:-1 tvg-id="" tvg-name="BR: STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries/brazil/studiouniversal.png" group-title="LAME | BRAZIL VIP",BR: STUDIO UNIVERSAL
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4905
-#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY" tvg-logo="https://docdog.top/logo/countries/brazil/syfy.png" group-title="LAME | BRAZIL VIP",BR: SYFY
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4906
-#EXTINF:-1 tvg-id="" tvg-name="BR: TBS" tvg-logo="https://docdog.top/logo/countries/brazil/tbs.png" group-title="LAME | BRAZIL VIP",BR: TBS
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4907
-#EXTINF:-1 tvg-id="" tvg-name="BR: TCM" tvg-logo="https://docdog.top/logo/countries/brazil/tcm.png" group-title="LAME | BRAZIL VIP",BR: TCM
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4908
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELE CINE ACTION" tvg-logo="https://docdog.top/logo/countries/brazil/telecineaction.png" group-title="LAME | BRAZIL VIP",BR: TELE CINE ACTION
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4909
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELE CINE CULT" tvg-logo="https://docdog.top/logo/countries/brazil/telecinecult.png" group-title="LAME | BRAZIL VIP",BR: TELE CINE CULT
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4910
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELE CINE FUN" tvg-logo="https://docdog.top/logo/countries/brazil/telecinefun.png" group-title="LAME | BRAZIL VIP",BR: TELE CINE FUN
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4911
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELE CINE PIPOCA" tvg-logo="https://docdog.top/logo/countries/brazil/telecinepipoca.png" group-title="LAME | BRAZIL VIP",BR: TELE CINE PIPOCA
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4912
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELE CINE PREMIUM" tvg-logo="https://docdog.top/logo/countries/brazil/telecinepremium.png" group-title="LAME | BRAZIL VIP",BR: TELE CINE PREMIUM
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4913
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELE CINE TOUCH" tvg-logo="https://docdog.top/logo/countries/brazil/telecinetouch.png" group-title="LAME | BRAZIL VIP",BR: TELE CINE TOUCH
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4914
-#EXTINF:-1 tvg-id="" tvg-name="BR: TNT" tvg-logo="https://docdog.top/logo/countries/brazil/tnt.png" group-title="LAME | BRAZIL VIP",BR: TNT
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4915
-#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SERIES" tvg-logo="https://docdog.top/logo/countries/brazil/tntseries.png" group-title="LAME | BRAZIL VIP",BR: TNT SERIES
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4916
-#EXTINF:-1 tvg-id="" tvg-name="BR: TOONCAST" tvg-logo="https://docdog.top/logo/countries/brazil/tooncast.png" group-title="LAME | BRAZIL VIP",BR: TOONCAST
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4917
-#EXTINF:-1 tvg-id="" tvg-name="BR: TV BRASIL" tvg-logo="https://docdog.top/logo/countries/brazil/canalbrasil.png" group-title="LAME | BRAZIL VIP",BR: TV BRASIL
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4918
-#EXTINF:-1 tvg-id="" tvg-name="BR: TV DIARIO" tvg-logo="https://docdog.top/logo/countries/brazil//TVDIARIO.jpg" group-title="LAME | BRAZIL VIP",BR: TV DIARIO
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4919
-#EXTINF:-1 tvg-id="" tvg-name="BR: TV EVANGELIZAR" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: TV EVANGELIZAR
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4920
-#EXTINF:-1 tvg-id="" tvg-name="BR: UNIVERSAL CHANNEL" tvg-logo="https://docdog.top/logo/countries/brazil/universalchannel.png" group-title="LAME | BRAZIL VIP",BR: UNIVERSAL CHANNEL
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4921
-#EXTINF:-1 tvg-id="" tvg-name="BR: VIVA" tvg-logo="https://docdog.top/logo/countries/brazil/viva.png" group-title="LAME | BRAZIL VIP",BR: VIVA
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4922
-#EXTINF:-1 tvg-id="" tvg-name="BR: WARNER CHANNEL" tvg-logo="https://docdog.top/logo/countries/brazil/warnerchannel.png" group-title="LAME | BRAZIL VIP",BR: WARNER CHANNEL
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4923
-#EXTINF:-1 tvg-id="" tvg-name="BR: WOOHOO" tvg-logo="https://docdog.top/logo/countries/brazil/woohoo.png" group-title="LAME | BRAZIL VIP",BR: WOOHOO
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4924
-#EXTINF:-1 tvg-id="" tvg-name="BR: Record RJ" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: Record RJ
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/58729
-#EXTINF:-1 tvg-id="" tvg-name="BR: Record RS" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: Record RS
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/58730
-#EXTINF:-1 tvg-id="" tvg-name="BR: Record SP" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: Record SP
+#EXTINF:-1,0001       (66.163.113.120:14005)
+http://66.163.113.120:14005
+#EXTINF:-1,0002       (66.163.113.120:14001)
+http://66.163.113.120:14001
+#EXTINF:-1,0003       (66.163.113.120:14003)
+http://66.163.113.120:14003
+#EXTINF:-1,0004       (66.163.113.120:14007)
+http://66.163.113.120:14007
+#EXTINF:-1,0005       (66.163.113.120:14016)
+http://66.163.113.120:14016
+#EXTINF:-1,0006       (66.163.113.120:14017)
+http://66.163.113.120:14017
+#EXTINF:-1,0007       (66.163.113.120:14015)
+http://66.163.113.120:14015
+#EXTINF:-1,0008       (66.163.113.120:14011)
+http://66.163.113.120:14011
+#EXTINF:-1,0009       (66.163.113.120:14009)
+http://66.163.113.120:14009
+#EXTINF:-1,0010       (66.163.113.120:14027)
+http://66.163.113.120:14027
+#EXTINF:-1,0011       (66.163.113.120:14019)
+http://66.163.113.120:14019
+#EXTINF:-1,0012       (66.163.113.120:14021)
+http://66.163.113.120:14021
+#EXTINF:-1,0013       (66.163.113.120:14025)
+http://66.163.113.120:14025
+#EXTINF:-1,0014       (66.163.113.120:14023)
+http://66.163.113.120:14023
+#EXTINF:-1,0015       (66.163.113.120:14033)
+http://66.163.113.120:14033
+#EXTINF:-1,0016       (66.163.113.120:14034)
+http://66.163.113.120:14034
+#EXTINF:-1,0017       (66.163.113.120:14032)
+http://66.163.113.120:14032
+#EXTINF:-1,0018       (66.163.113.120:14035)
+http://66.163.113.120:14035
+#EXTINF:-1,0019       (66.163.113.120:14045)
+http://66.163.113.120:14045
+#EXTINF:-1,0020       (66.163.113.120:14043)
+http://66.163.113.120:14043
+#EXTINF:-1,0021       (66.163.113.120:14046)
+http://66.163.113.120:14046
+#EXTINF:-1,0022       (66.163.113.120:14048)
+http://66.163.113.120:14048
+#EXTINF:-1,0023       (66.163.113.120:14047)
+http://66.163.113.120:14047
+#EXTINF:-1,0024       (66.163.113.120:14039)
+http://66.163.113.120:14039
+#EXTINF:-1,0025       (66.163.113.120:14041)
+http://66.163.113.120:14041
+#EXTINF:-1,0026       (66.163.113.120:14049)
+http://66.163.113.120:14049
+#EXTINF:-1,0027       (66.163.113.120:14056)
+http://66.163.113.120:14056
+#EXTINF:-1,0028       (66.163.113.120:14006)
+http://66.163.113.120:14006
+#EXTINF:-1,0029       (66.163.113.120:14068)
+http://66.163.113.120:14068
+#EXTINF:-1,0030       (66.163.113.120:14069)
+http://66.163.113.120:14069
+#EXTINF:-1,0031       (66.163.113.120:14014)
+http://66.163.113.120:14014
+#EXTINF:-1,0032       (66.163.113.120:14077)
+http://66.163.113.120:14077
+#EXTINF:-1,0033       (66.163.113.120:14002)
+http://66.163.113.120:14002
+#EXTINF:-1,0034       (66.163.113.120:14030)
+http://66.163.113.120:14030
+#EXTINF:-1,0035       (66.163.113.120:14018)
+http://66.163.113.120:14018
+#EXTINF:-1,0036       (66.163.113.120:14095)
+http://66.163.113.120:14095
+#EXTINF:-1,0037       (66.163.113.120:14091)
+http://66.163.113.120:14091
+#EXTINF:-1,0038       (66.163.113.120:14097)
+http://66.163.113.120:14097
+#EXTINF:-1,0039       (66.163.113.120:14093)
+http://66.163.113.120:14093
+#EXTINF:-1,0040       (66.163.113.120:14103)
+http://66.163.113.120:14103
+#EXTINF:-1,0041       (66.163.113.120:14101)
+http://66.163.113.120:14101
+#EXTINF:-1,0042       (66.163.113.120:14099)
+http://66.163.113.120:14099
+#EXTINF:-1,0043       (66.163.113.120:14107)
+http://66.163.113.120:14107
+#EXTINF:-1,0044       (66.163.113.120:14109)
+http://66.163.113.120:14109
+#EXTINF:-1,0045       (66.163.113.120:14108)
+http://66.163.113.120:14108
+#EXTINF:-1,0046       (66.163.113.120:14100)
+http://66.163.113.120:14100
+#EXTINF:-1,0047       (66.163.113.120:14105)
+http://66.163.113.120:14105
+#EXTINF:-1,0048       (66.163.113.120:14104)
+http://66.163.113.120:14104
+#EXTINF:-1,0049       (66.163.113.120:14038)
+http://66.163.113.120:14038
+#EXTINF:-1,0050       (66.163.113.120:14042)
+http://66.163.113.120:14042
+#EXTINF:-1,0051       (66.163.113.120:14119)
+http://66.163.113.120:14119
+#EXTINF:-1,0052       (66.163.113.120:14115)
+http://66.163.113.120:14115
+#EXTINF:-1,0053       (66.163.113.120:14116)
+http://66.163.113.120:14116
+#EXTINF:-1,0054       (66.163.113.120:14112)
+http://66.163.113.120:14112
+#EXTINF:-1,0055       (66.163.113.120:14118)
+http://66.163.113.120:14118
+#EXTINF:-1,0056       (66.163.113.120:14111)
+http://66.163.113.120:14111
+#EXTINF:-1,0057       (66.163.113.120:14113)
+http://66.163.113.120:14113
+#EXTINF:-1,0058       (66.163.113.120:14117)
+http://66.163.113.120:14117
+#EXTINF:-1,0059       (66.163.113.120:14121)
+http://66.163.113.120:14121
+#EXTINF:-1,0060       (66.163.113.120:14120)
+http://66.163.113.120:14120
+#EXTINF:-1,0061       (66.163.113.120:14060)
+http://66.163.113.120:14060
+#EXTINF:-1,0062       (66.163.113.120:14128)
+http://66.163.113.120:14128
+#EXTINF:-1,0063       (66.163.113.120:14125)
+http://66.163.113.120:14125
+#EXTINF:-1,0064       (66.163.113.120:14127)
+http://66.163.113.120:14127
+#EXTINF:-1,0065       (66.163.113.120:14123)
+http://66.163.113.120:14123
+#EXTINF:-1,0066       (66.163.113.120:14129)
+http://66.163.113.120:14129
+#EXTINF:-1,0067       (66.163.113.120:14066)
+http://66.163.113.120:14066
+#EXTINF:-1,0068       (66.163.113.120:14135)
+http://66.163.113.120:14135
+#EXTINF:-1,0069       (66.163.113.120:14131)
+http://66.163.113.120:14131
+#EXTINF:-1,0070       (66.163.113.120:14124)
+http://66.163.113.120:14124
+#EXTINF:-1,0071       (66.163.113.120:14136)
+http://66.163.113.120:14136
+#EXTINF:-1,0072       (66.163.113.120:14140)
+http://66.163.113.120:14140
+#EXTINF:-1,0073       (66.163.113.120:14143)
+http://66.163.113.120:14143
+#EXTINF:-1,0074       (66.163.113.120:14142)
+http://66.163.113.120:14142
+#EXTINF:-1,0075       (66.163.113.120:14145)
+http://66.163.113.120:14145
+#EXTINF:-1,0076       (66.163.113.120:14141)
+http://66.163.113.120:14141
+#EXTINF:-1,0077       (66.163.113.120:14144)
+http://66.163.113.120:14144
+#EXTINF:-1,0078       (66.163.113.120:14153)
+http://66.163.113.120:14153
+#EXTINF:-1,0079       (66.163.113.120:14092)
+http://66.163.113.120:14092
+#EXTINF:-1,0080       (66.163.113.120:14094)
+http://66.163.113.120:14094
+#EXTINF:-1,0081       (66.163.113.120:14096)
+http://66.163.113.120:14096
+#EXTINF:-1,0082       (66.163.113.120:14161)
+http://66.163.113.120:14161
+#EXTINF:-1,0083       (66.163.113.120:14106)
+http://66.163.113.120:14106
+#EXTINF:-1,0084       (66.163.113.120:14098)
+http://66.163.113.120:14098
+#EXTINF:-1,0085       (66.163.113.120:14090)
+http://66.163.113.120:14090
+#EXTINF:-1,0086       (66.163.113.120:14168)
+http://66.163.113.120:14168
+#EXTINF:-1,0087       (66.163.113.120:14102)
+http://66.163.113.120:14102
+#EXTINF:-1,0088       (66.163.113.120:14163)
+http://66.163.113.120:14163
+#EXTINF:-1,0089       (66.163.113.120:14169)
+http://66.163.113.120:14169
+#EXTINF:-1,0090       (66.163.113.120:14177)
+http://66.163.113.120:14177
+#EXTINF:-1,0091       (66.163.113.120:14171)
+http://66.163.113.120:14171
+#EXTINF:-1,0092       (66.163.113.120:14178)
+http://66.163.113.120:14178
+#EXTINF:-1,0093       (66.163.113.120:14173)
+http://66.163.113.120:14173
+#EXTINF:-1,0094       (66.163.113.120:14172)
+http://66.163.113.120:14172
+#EXTINF:-1,0095       (66.163.113.120:14183)
+http://66.163.113.120:14183
+#EXTINF:-1,0096       (66.163.113.120:14110)
+http://66.163.113.120:14110
+#EXTINF:-1,0097       (66.163.113.120:14122)
+http://66.163.113.120:14122
+#EXTINF:-1,0098       (66.163.113.120:14114)
+http://66.163.113.120:14114
+#EXTINF:-1,0099       (66.163.113.120:14184)
+http://66.163.113.120:14184
+#EXTINF:-1,0100       (66.163.113.120:14205)
+http://66.163.113.120:14205
+#EXTINF:-1,0101       (66.163.113.120:14206)
+http://66.163.113.120:14206
+#EXTINF:-1,0102       (66.163.113.120:14146)
+http://66.163.113.120:14146
+#EXTINF:-1,0103       (66.163.113.120:14130)
+http://66.163.113.120:14130
+#EXTINF:-1,0104       (66.163.113.120:14214)
+http://66.163.113.120:14214
+#EXTINF:-1,0105       (66.163.113.120:14221)
+http://66.163.113.120:14221
+#EXTINF:-1,0106       (66.163.113.120:14212)
+http://66.163.113.120:14212
+#EXTINF:-1,0107       (66.163.113.120:14216)
+http://66.163.113.120:14216
+#EXTINF:-1,0108       (66.163.113.120:14236)
+http://66.163.113.120:14236
+#EXTINF:-1,0109       (66.163.113.120:14170)
+http://66.163.113.120:14170
+#EXTINF:-1,0110       (66.163.113.120:14190)
+http://66.163.113.120:14190
+#EXTINF:-1,0111       (66.163.113.120:14266)
+http://66.163.113.120:14266
+#EXTINF:-1,0112       (66.163.113.120:14260)
+http://66.163.113.120:14260
+#EXTINF:-1,0113       (66.163.113.120:14182)
+http://66.163.113.120:14182
+#EXTINF:-1,0114       (66.163.113.120:14174)
+http://66.163.113.120:14174
+#EXTINF:-1,0115       (66.163.113.120:14300)
+http://66.163.113.120:14300
+#EXTINF:-1,0116       (66.163.113.120:14323)
+http://66.163.113.120:14323
+#EXTINF:-1,0117       (66.163.113.120:14332)
+http://66.163.113.120:14332
+#EXTINF:-1,0118       (66.163.113.120:14330)
+http://66.163.113.120:14330
+#EXTINF:-1,0119       (66.163.113.120:14334)
+http://66.163.113.120:14334
+#EXTINF:-1,0120       (66.163.113.120:14333)
+http://66.163.113.120:14333
+#EXTINF:-1,0121       (66.163.113.120:14343)
+http://66.163.113.120:14343
+#EXTINF:-1,0122       (66.163.113.120:14340)
+http://66.163.113.120:14340
+#EXTINF:-1,0123       (66.163.113.120:14339)
+http://66.163.113.120:14339
+#EXTINF:-1,0124       (66.163.113.120:14341)
+http://66.163.113.120:14341
+#EXTINF:-1,0125       (66.163.113.120:14351)
+http://66.163.113.120:14351
+#EXTINF:-1,0126       (66.163.113.120:14350)
+http://66.163.113.120:14350
+#EXTINF:-1,0127       (66.163.113.120:14348)
+http://66.163.113.120:14348
+#EXTINF:-1,0128       (66.163.113.120:14336)
+http://66.163.113.120:14336
+#EXTINF:-1,0129       (66.163.113.120:14335)
+http://66.163.113.120:14335
+#EXTINF:-1,0130       (66.163.113.120:14344)
+http://66.163.113.120:14344
+#EXTINF:-1,0131       (66.163.113.120:14349)
+http://66.163.113.120:14349
+#EXTINF:-1,0132       (66.163.113.120:14345)
+http://66.163.113.120:14345
+#EXTINF:-1,0133       (66.163.113.120:14365)
+http://66.163.113.120:14365
+#EXTINF:-1,0134       (66.163.113.120:14337)
+http://66.163.113.120:14337
+#EXTINF:-1,0135       (66.163.113.120:14347)
+http://66.163.113.120:14347
+#EXTINF:-1,0136       (66.163.113.120:14355)
+http://66.163.113.120:14355
+#EXTINF:-1,0137       (66.163.113.120:14377)
+http://66.163.113.120:14377
+#EXTINF:-1,0138       (66.163.113.120:14371)
+http://66.163.113.120:14371
+#EXTINF:-1,0139       (66.163.113.120:14379)
+http://66.163.113.120:14379
+#EXTINF:-1,0140       (66.163.113.120:14375)
+http://66.163.113.120:14375
+#EXTINF:-1,0141       (66.163.113.120:14384)
+http://66.163.113.120:14384
+#EXTINF:-1,0142       (66.163.113.120:14385)
+http://66.163.113.120:14385
+#EXTINF:-1,0143       (66.163.113.120:14413)
+http://66.163.113.120:14413
+#EXTINF:-1,0144       (66.163.113.120:14411)
+http://66.163.113.120:14411
+#EXTINF:-1,0145       (66.163.113.120:14403)
+http://66.163.113.120:14403
+#EXTINF:-1,0146       (66.163.113.120:14342)
+http://66.163.113.120:14342
+#EXTINF:-1,0147       (66.163.113.120:14404)
+http://66.163.113.120:14404
+#EXTINF:-1,0148       (66.163.113.120:14338)
+http://66.163.113.120:14338
+#EXTINF:-1,0149       (66.163.113.120:14346)
+http://66.163.113.120:14346
+#EXTINF:-1,0150       (66.163.113.120:14400)
+http://66.163.113.120:14400
+#EXTINF:-1,0151       (66.163.113.120:14352)
+http://66.163.113.120:14352
+#EXTINF:-1,0152       (66.163.113.120:14456)
+http://66.163.113.120:14456
+#EXTINF:-1,0153       (66.163.113.120:14440)
+http://66.163.113.120:14440
+#EXTINF:-1,0154       (66.163.113.120:14457)
+http://66.163.113.120:14457
+#EXTINF:-1,0155       (66.163.113.120:14437)
+http://66.163.113.120:14437
+#EXTINF:-1,0156       (66.163.113.120:14509)
+http://66.163.113.120:14509
+#EXTINF:-1,0157       (66.163.113.120:14463)
+http://66.163.113.120:14463
+#EXTINF:-1,0158       (66.163.113.120:14402)
+http://66.163.113.120:14402
+#EXTINF:-1,0159       (66.163.113.120:14510)
+http://66.163.113.120:14510
+#EXTINF:-1,0160       (66.163.113.120:14511)
+http://66.163.113.120:14511
+#EXTINF:-1,0161       (66.163.113.120:14508)
+http://66.163.113.120:14508
+#EXTINF:-1,0162       (66.163.113.120:14500)
+http://66.163.113.120:14500
+#EXTINF:-1,0163       (66.163.113.120:14505)
+http://66.163.113.120:14505
+#EXTINF:-1,0164       (66.163.113.120:14506)
+http://66.163.113.120:14506
+#EXTINF:-1,0165       (66.163.113.120:14503)
+http://66.163.113.120:14503
+#EXTINF:-1,0166       (66.163.113.120:14515)
+http://66.163.113.120:14515
+#EXTINF:-1,0167       (66.163.113.120:14532)
+http://66.163.113.120:14532
+#EXTINF:-1,0168       (66.163.113.120:14528)
+http://66.163.113.120:14528
+#EXTINF:-1,0169       (66.163.113.120:14550)
+http://66.163.113.120:14550
+#EXTINF:-1,0170       (66.163.113.120:14545)
+http://66.163.113.120:14545
+#EXTINF:-1,0171       (66.163.113.120:14561)
+http://66.163.113.120:14561
+#EXTINF:-1,0172       (66.163.113.120:14502)
+http://66.163.113.120:14502
+#EXTINF:-1,0173       (66.163.113.120:14518)
+http://66.163.113.120:14518
+#EXTINF:-1,0174       (66.163.113.120:14560)
+http://66.163.113.120:14560
+#EXTINF:-1,0175       (66.163.113.120:14544)
+http://66.163.113.120:14544
+#EXTINF:-1,0176       (66.163.113.120:14516)
+http://66.163.113.120:14516
+#EXTINF:-1,0177       (66.163.113.120:14559)
+http://66.163.113.120:14559
+#EXTINF:-1,0178       (66.163.113.120:14603)
+http://66.163.113.120:14603
+#EXTINF:-1,0179       (66.163.113.120:14582)
+http://66.163.113.120:14582
+#EXTINF:-1,0180       (66.163.113.120:14605)
+http://66.163.113.120:14605
+#EXTINF:-1,0181       (66.163.113.120:14594)
+http://66.163.113.120:14594
+#EXTINF:-1,0182       (66.163.113.120:14600)
+http://66.163.113.120:14600
+#EXTINF:-1,0183       (66.163.113.120:14602)
+http://66.163.113.120:14602
+#EXTINF:-1,0184       (66.163.113.120:14601)
+http://66.163.113.120:14601
+#EXTINF:-1,0185       (66.163.113.120:14617)
+http://66.163.113.120:14617
+#EXTINF:-1,0186       (66.163.113.120:14609)
+http://66.163.113.120:14609
+#EXTINF:-1,0187       (66.163.113.120:14607)
+http://66.163.113.120:14607
+#EXTINF:-1,0188       (66.163.113.120:14608)
+http://66.163.113.120:14608
+#EXTINF:-1,0189       (66.163.113.120:14618)
+http://66.163.113.120:14618
+#EXTINF:-1,0190       (66.163.113.120:14624)
+http://66.163.113.120:14624
+#EXTINF:-1,0191       (66.163.113.120:14621)
+http://66.163.113.120:14621
+#EXTINF:-1,0192       (66.163.113.120:14625)
+http://66.163.113.120:14625
+#EXTINF:-1,0193       (66.163.113.120:14620)
+http://66.163.113.120:14620
+#EXTINF:-1,0194       (66.163.113.120:14611)
+http://66.163.113.120:14611
+#EXTINF:-1,0195       (66.163.113.120:14623)
+http://66.163.113.120:14623
+#EXTINF:-1,0196       (66.163.113.120:14613)
+http://66.163.113.120:14613
+#EXTINF:-1,0197       (66.163.113.120:14630)
+http://66.163.113.120:14630
+#EXTINF:-1,0198       (66.163.113.120:14619)
+http://66.163.113.120:14619
+#EXTINF:-1,0199       (66.163.113.120:14626)
+http://66.163.113.120:14626
+#EXTINF:-1,0200       (66.163.113.120:14629)
+http://66.163.113.120:14629
+#EXTINF:-1,0201       (66.163.113.120:14616)
+http://66.163.113.120:14616
+#EXTINF:-1,0202       (66.163.113.120:14615)
+http://66.163.113.120:14615
+#EXTINF:-1,0203       (66.163.113.120:14614)
+http://66.163.113.120:14614
+#EXTINF:-1,0204       (66.163.113.120:14627)
+http://66.163.113.120:14627
+#EXTINF:-1,0205       (66.163.113.120:14632)
+http://66.163.113.120:14632
+#EXTINF:-1,0206       (66.163.113.120:14634)
+http://66.163.113.120:14634
+#EXTINF:-1,0207       (66.163.113.120:14633)
+http://66.163.113.120:14633
+#EXTINF:-1,0208       (66.163.113.120:14631)
+http://66.163.113.120:14631
+#EXTINF:-1,0209       (66.163.113.120:14556)
+http://66.163.113.120:14556
+#EXTINF:-1,0210       (66.163.113.120:14637)
+http://66.163.113.120:14637
+#EXTINF:-1,0211       (66.163.113.120:14639)
+http://66.163.113.120:14639
+#EXTINF:-1,0212       (66.163.113.120:14640)
+http://66.163.113.120:14640
+#EXTINF:-1,0213       (66.163.113.120:14635)
+http://66.163.113.120:14635
+#EXTINF:-1,0214       (66.163.113.120:14662)
+http://66.163.113.120:14662
+#EXTINF:-1,0215       (66.163.113.120:14653)
+http://66.163.113.120:14653
+#EXTINF:-1,0216       (66.163.113.120:14604)
+http://66.163.113.120:14604
+#EXTINF:-1,0217       (66.163.113.120:14641)
+http://66.163.113.120:14641
+#EXTINF:-1,0218       (66.163.113.120:14610)
+http://66.163.113.120:14610
+#EXTINF:-1,0219       (66.163.113.120:14685)
+http://66.163.113.120:14685
+#EXTINF:-1,0220       (66.163.113.120:14606)
+http://66.163.113.120:14606
+#EXTINF:-1,0221       (66.163.113.120:14710)
+http://66.163.113.120:14710
+#EXTINF:-1,0222       (66.163.113.120:14622)
+http://66.163.113.120:14622
+#EXTINF:-1,0223       (66.163.113.120:14701)
+http://66.163.113.120:14701
+#EXTINF:-1,0224       (66.163.113.120:14703)
+http://66.163.113.120:14703
+#EXTINF:-1,0225       (66.163.113.120:14702)
+http://66.163.113.120:14702
+#EXTINF:-1,0226       (66.163.113.120:14715)
+http://66.163.113.120:14715
+#EXTINF:-1,0227       (66.163.113.120:14612)
+http://66.163.113.120:14612
+#EXTINF:-1,0228       (66.163.113.120:14707)
+http://66.163.113.120:14707
+#EXTINF:-1,0229       (66.163.113.120:14705)
+http://66.163.113.120:14705
+#EXTINF:-1,0230       (66.163.113.120:14704)
+http://66.163.113.120:14704
+#EXTINF:-1,0231       (66.163.113.120:14628)
+http://66.163.113.120:14628
+#EXTINF:-1,0232       (66.163.113.120:14636)
+http://66.163.113.120:14636
+#EXTINF:-1,0233       (66.163.113.120:14712)
+http://66.163.113.120:14712
+#EXTINF:-1,0234       (66.163.113.120:14638)
+http://66.163.113.120:14638
+#EXTINF:-1,0235       (66.163.113.120:14723)
+http://66.163.113.120:14723
+#EXTINF:-1,0236       (66.163.113.120:14736)
+http://66.163.113.120:14736
+#EXTINF:-1,0237       (66.163.113.120:14737)
+http://66.163.113.120:14737
+#EXTINF:-1,0238       (66.163.113.120:14735)
+http://66.163.113.120:14735
+#EXTINF:-1,0239       (66.163.113.120:14743)
+http://66.163.113.120:14743
+#EXTINF:-1,0240       (66.163.113.120:14759)
+http://66.163.113.120:14759
+#EXTINF:-1,0241       (66.163.113.120:14756)
+http://66.163.113.120:14756
+#EXTINF:-1,0242       (66.163.113.120:14749)
+http://66.163.113.120:14749
+#EXTINF:-1,0243       (66.163.113.120:14754)
+http://66.163.113.120:14754
+#EXTINF:-1,0244       (66.163.113.120:14760)
+http://66.163.113.120:14760
+#EXTINF:-1,0245       (66.163.113.120:14830)
+http://66.163.113.120:14830
+#EXTINF:-1,0246       (66.163.113.120:14716)
+http://66.163.113.120:14716
+#EXTINF:-1,0247       (66.163.113.120:14814)
+http://66.163.113.120:14814
+#EXTINF:-1,0248       (66.163.113.120:14810)
+http://66.163.113.120:14810
+#EXTINF:-1,0249       (66.163.113.120:14753)
+http://66.163.113.120:14753
+#EXTINF:-1,0250       (66.163.113.120:14827)
+http://66.163.113.120:14827
+#EXTINF:-1,0251       (66.163.113.120:14828)
+http://66.163.113.120:14828
+#EXTINF:-1,0252       (66.163.113.120:14700)
+http://66.163.113.120:14700
+#EXTINF:-1,0253       (66.163.113.120:14802)
+http://66.163.113.120:14802
+#EXTINF:-1,0254       (66.163.113.120:14676)
+http://66.163.113.120:14676
+#EXTINF:-1,0255       (66.163.113.120:14801)
+http://66.163.113.120:14801
+#EXTINF:-1,0256       (66.163.113.120:14834)
+http://66.163.113.120:14834
+#EXTINF:-1,0257       (66.163.113.120:14822)
+http://66.163.113.120:14822
+#EXTINF:-1,0258       (66.163.113.120:14820)
+http://66.163.113.120:14820
+#EXTINF:-1,0259       (66.163.113.120:14826)
+http://66.163.113.120:14826
+#EXTINF:-1,0260       (66.163.113.120:14821)
+http://66.163.113.120:14821
+#EXTINF:-1,0261       (66.163.113.120:14851)
+http://66.163.113.120:14851
+#EXTINF:-1,0262       (66.163.113.120:14836)
+http://66.163.113.120:14836
+#EXTINF:-1,0263       (66.163.113.120:14825)
+http://66.163.113.120:14825
+#EXTINF:-1,0264       (66.163.113.120:14868)
+http://66.163.113.120:14868
+#EXTINF:-1,0265       (66.163.113.120:14889)
+http://66.163.113.120:14889
+#EXTINF:-1,0266       (66.163.113.120:14903)
+http://66.163.113.120:14903
+#EXTINF:-1,0267       (66.163.113.120:14795)
+http://66.163.113.120:14795
+#EXTINF:-1,0268       (66.163.113.120:14902)
+http://66.163.113.120:14902
+#EXTINF:-1,0269       (66.163.113.120:14816)
+http://66.163.113.120:14816
+#EXTINF:-1,0270       (66.163.113.120:14901)
+http://66.163.113.120:14901
+#EXTINF:-1,0271       (66.163.113.120:14906)
+http://66.163.113.120:14906
+#EXTINF:-1,0272       (66.163.113.120:14917)
+http://66.163.113.120:14917
+#EXTINF:-1,0273       (66.163.113.120:14924)
+http://66.163.113.120:14924
+#EXTINF:-1,0274       (66.163.113.120:14910)
+http://66.163.113.120:14910
+#EXTINF:-1,0275       (66.163.113.120:14905)
+http://66.163.113.120:14905
+#EXTINF:-1,0276       (66.163.113.120:14942)
+http://66.163.113.120:14942
+#EXTINF:-1,0277       (66.163.113.120:14928)
+http://66.163.113.120:14928
+#EXTINF:-1,0278       (66.163.113.120:14959)
+http://66.163.113.120:14959
+#EXTINF:-1,0279       (66.163.113.120:14957)
+http://66.163.113.120:14957
+#EXTINF:-1,0280       (66.163.113.120:14967)
+http://66.163.113.120:14967
+#EXTINF:-1,0281       (66.163.113.120:14991)
+http://66.163.113.120:14991
+#EXTINF:-1,0282       (66.163.113.120:14912)
+http://66.163.113.120:14912
+#EXTINF:-1,0283       (66.163.113.120:14932)
+http://66.163.113.120:14932
+#EXTINF:-1,0284       (66.163.113.120:14952)
+http://66.163.113.120:14952
+#EXTINF:-1,0285       (66.163.113.120:14958)
+http://66.163.113.120:14958
+#EXTINF:-1,0286       (66.163.113.120:14807)
+http://66.163.113.120:14807
